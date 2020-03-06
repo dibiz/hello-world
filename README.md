@@ -1,3 +1,5 @@
 # hello-world
 my brand new repository
-this is myp personal trial
+Hi, im Dibiz
+
+I drink coffee and eat blueberries all the time.
